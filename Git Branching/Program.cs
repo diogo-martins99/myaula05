@@ -10,6 +10,7 @@ namespace Git_Branching
     {
         static void Main(string[] args)
         {
+            WriteLine("Hello");
         }
     }
 }
