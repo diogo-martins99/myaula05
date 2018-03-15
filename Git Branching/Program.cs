@@ -6,12 +6,10 @@ namespace Git_Branching
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
 
             WriteLine("Adeus");
-=======
+
             WriteLine("Bye");
->>>>>>> fixprint
         }
     }
 }
